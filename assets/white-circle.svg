@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="20px" height="20px">
-<circle cx="10" cy="10" r="10" fill="#ffffff" opacity="1" style="opacity: 1;"></circle>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"><circle cx="10" cy="10" r="10" fill="#fff" opacity="1" style="opacity:1"/></svg>
